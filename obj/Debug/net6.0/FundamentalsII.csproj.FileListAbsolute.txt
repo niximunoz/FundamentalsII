@@ -1,0 +1,15 @@
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\bin\Debug\net6.0\FundamentalsII.exe
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\bin\Debug\net6.0\FundamentalsII.deps.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\bin\Debug\net6.0\FundamentalsII.runtimeconfig.json
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\bin\Debug\net6.0\FundamentalsII.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\bin\Debug\net6.0\FundamentalsII.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\FundamentalsII.csproj.AssemblyReference.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\FundamentalsII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\FundamentalsII.AssemblyInfoInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\FundamentalsII.AssemblyInfo.cs
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\FundamentalsII.csproj.CoreCompileInputs.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\FundamentalsII.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\refint\FundamentalsII.dll
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\FundamentalsII.pdb
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\FundamentalsII.genruntimeconfig.cache
+C:\Users\nixim\Desktop\C#-.NET-SONDA-Septiembre-2023\Asignaciones\FundamentalsII\obj\Debug\net6.0\ref\FundamentalsII.dll
